@@ -6,5 +6,6 @@ git commit -m --> cria uma nova versão, passando um nome
 git add . --> adiciona um arquivo que sofreu uma alteração
 git reset --> volta uma versão do programa
 git push --> envi alteração local para o remoto
+git reset --hard --> volta versão de um código fonte
 
  
